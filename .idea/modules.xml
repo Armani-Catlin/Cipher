@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Caesar Cipher.iml" filepath="$PROJECT_DIR$/Caesar Cipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cipher.iml" filepath="$PROJECT_DIR$/Cipher.iml" />
     </modules>
   </component>
 </project>

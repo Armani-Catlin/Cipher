@@ -1,6 +1,6 @@
 public class Main {
-    String Str = "GEEKSFORGEEKS";
-    String Keyword = "AYUSH";
+    String Str = "Qnexarffr";
+    String Keyword = "Armani";
 
     String str = LowerToUpper(Str);
     String keyword = LowerToUpper(Keyword);
